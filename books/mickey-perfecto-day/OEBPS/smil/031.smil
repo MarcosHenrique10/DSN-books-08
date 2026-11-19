@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id331g">
+			<!--  -->
+			<text src="../031.xhtml#empty"/>
+			<audio clipBegin="189739ms" clipEnd="190309ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id331">
+			<!-- Donald -->
+			<text src="../031.xhtml#w331"/>
+			<audio clipBegin="190309ms" clipEnd="190749ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id332">
+			<!-- joins -->
+			<text src="../031.xhtml#w332"/>
+			<audio clipBegin="190749ms" clipEnd="191249ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id333">
+			<!-- the -->
+			<text src="../031.xhtml#w333"/>
+			<audio clipBegin="191249ms" clipEnd="191339ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id334">
+			<!-- band -->
+			<text src="../031.xhtml#w334"/>
+			<audio clipBegin="191339ms" clipEnd="192429ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id335">
+			<!-- They -->
+			<text src="../031.xhtml#w335"/>
+			<audio clipBegin="192429ms" clipEnd="192669ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id336">
+			<!-- sing -->
+			<text src="../031.xhtml#w336"/>
+			<audio clipBegin="192669ms" clipEnd="193139ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id337">
+			<!-- together -->
+			<text src="../031.xhtml#w337"/>
+			<audio clipBegin="193139ms" clipEnd="194499ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id338">
+			<!-- The -->
+			<text src="../031.xhtml#w338"/>
+			<audio clipBegin="194499ms" clipEnd="194599ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id339">
+			<!-- crowd -->
+			<text src="../031.xhtml#w339"/>
+			<audio clipBegin="194599ms" clipEnd="195359ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id340">
+			<!-- loves -->
+			<text src="../031.xhtml#w340"/>
+			<audio clipBegin="195359ms" clipEnd="195919ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id341">
+			<!-- the -->
+			<text src="../031.xhtml#w341"/>
+			<audio clipBegin="195919ms" clipEnd="196019ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id342">
+			<!-- show -->
+			<text src="../031.xhtml#w342"/>
+			<audio clipBegin="196019ms" clipEnd="196489ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id342g">
+			<!--  -->
+			<text src="../031.xhtml#empty1"/>
+			<audio clipBegin="196489ms" clipEnd="198054ms" src="../audio/9781368017107.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="5202ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- MICKEY'S -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5202ms" clipEnd="5802ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- PERFECTO -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="5802ms" clipEnd="6622ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- DAY -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="6622ms" clipEnd="8090ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="8090ms" clipEnd="8640ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="8640ms" clipEnd="8790ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Sherri -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="8790ms" clipEnd="9120ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Stoner -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="9120ms" clipEnd="10285ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Based -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="10285ms" clipEnd="10565ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- on -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="10565ms" clipEnd="10675ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- the -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="10675ms" clipEnd="10795ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- episode -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="10795ms" clipEnd="11235ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- written -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="11235ms" clipEnd="11475ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- by -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="11475ms" clipEnd="11635ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Ashley -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="11635ms" clipEnd="11975ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Mendoza -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="11975ms" clipEnd="13282ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="13282ms" clipEnd="13942ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- by -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="13942ms" clipEnd="14182ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- Loter -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="14182ms" clipEnd="14522ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Inc -->
+			<text src="../003.xhtml#w19"/>
+			<audio clipBegin="14522ms" clipEnd="14687ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id19g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="14687ms" clipEnd="17124ms" src="../audio/9781368017107.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id80">
+      <!-- Ariel -->
+      <text src="../013.xhtml#w80"/>
+      <audio clipBegin="56185ms" clipEnd="56665ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id81">
+      <!-- looks -->
+      <text src="../013.xhtml#w81"/>
+      <audio clipBegin="56665ms" clipEnd="57042ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id82">
+      <!-- in -->
+      <text src="../013.xhtml#w82"/>
+      <audio clipBegin="57042ms" clipEnd="57219ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- the -->
+      <text src="../013.xhtml#w83"/>
+      <audio clipBegin="57219ms" clipEnd="57335ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- seaweed -->
+      <text src="../013.xhtml#w84"/>
+      <audio clipBegin="57335ms" clipEnd="58725ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- She -->
+      <text src="../013.xhtml#w85"/>
+      <audio clipBegin="58725ms" clipEnd="58965ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- searches -->
+      <text src="../013.xhtml#w86"/>
+      <audio clipBegin="58965ms" clipEnd="59625ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- in -->
+      <text src="../013.xhtml#w87"/>
+      <audio clipBegin="59625ms" clipEnd="59815ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- the -->
+      <text src="../013.xhtml#w88"/>
+      <audio clipBegin="59815ms" clipEnd="59905ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- sea -->
+      <text src="../013.xhtml#w89"/>
+      <audio clipBegin="59905ms" clipEnd="60155ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- plants -->
+      <text src="../013.xhtml#w90"/>
+      <audio clipBegin="60155ms" clipEnd="60805ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id90g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="60805ms" clipEnd="61459ms" src="../audio/9781423192435.m4a"/>
+    </par>
+  </body>
+</smil>

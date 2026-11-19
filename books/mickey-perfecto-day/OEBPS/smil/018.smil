@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id187g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="105904ms" clipEnd="106979ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- Donald -->
+			<text src="../018.xhtml#w187"/>
+			<audio clipBegin="106979ms" clipEnd="107489ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- tries -->
+			<text src="../018.xhtml#w188"/>
+			<audio clipBegin="107489ms" clipEnd="108209ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- the -->
+			<text src="../018.xhtml#w189"/>
+			<audio clipBegin="108209ms" clipEnd="108299ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- potatoes -->
+			<text src="../018.xhtml#w190"/>
+			<audio clipBegin="108299ms" clipEnd="109799ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- AAAACK -->
+			<text src="../018.xhtml#w191"/>
+			<audio clipBegin="109799ms" clipEnd="111339ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- he -->
+			<text src="../018.xhtml#w192"/>
+			<audio clipBegin="111339ms" clipEnd="111459ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- shouts -->
+			<text src="../018.xhtml#w193"/>
+			<audio clipBegin="111459ms" clipEnd="112509ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- They -->
+			<text src="../018.xhtml#w194"/>
+			<audio clipBegin="112509ms" clipEnd="112919ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id195">
+			<!-- are -->
+			<text src="../018.xhtml#w195"/>
+			<audio clipBegin="112919ms" clipEnd="113409ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id196">
+			<!-- very -->
+			<text src="../018.xhtml#w196"/>
+			<audio clipBegin="113409ms" clipEnd="113879ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id197">
+			<!-- spicy -->
+			<text src="../018.xhtml#w197"/>
+			<audio clipBegin="113879ms" clipEnd="114549ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id197g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="114549ms" clipEnd="115109ms" src="../audio/9781368017107.m4a"/>
+		</par>
+	</body>
+</smil>

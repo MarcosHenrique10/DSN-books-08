@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id266g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="151619ms" clipEnd="152719ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id266">
+			<!-- Mickey -->
+			<text src="../024.xhtml#w266"/>
+			<audio clipBegin="152719ms" clipEnd="153139ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id267">
+			<!-- and -->
+			<text src="../024.xhtml#w267"/>
+			<audio clipBegin="153139ms" clipEnd="153269ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id268">
+			<!-- Minnie -->
+			<text src="../024.xhtml#w268"/>
+			<audio clipBegin="153269ms" clipEnd="153699ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id269">
+			<!-- visit -->
+			<text src="../024.xhtml#w269"/>
+			<audio clipBegin="153699ms" clipEnd="154009ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id270">
+			<!-- the -->
+			<text src="../024.xhtml#w270"/>
+			<audio clipBegin="154009ms" clipEnd="154089ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id271">
+			<!-- plaza -->
+			<text src="../024.xhtml#w271"/>
+			<audio clipBegin="154089ms" clipEnd="155209ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id272">
+			<!-- The -->
+			<text src="../024.xhtml#w272"/>
+			<audio clipBegin="155209ms" clipEnd="155439ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id273">
+			<!-- bull -->
+			<text src="../024.xhtml#w273"/>
+			<audio clipBegin="155439ms" clipEnd="156159ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id274">
+			<!-- visits -->
+			<text src="../024.xhtml#w274"/>
+			<audio clipBegin="156159ms" clipEnd="156609ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id275">
+			<!-- the -->
+			<text src="../024.xhtml#w275"/>
+			<audio clipBegin="156609ms" clipEnd="156719ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- plaza -->
+			<text src="../024.xhtml#w276"/>
+			<audio clipBegin="156719ms" clipEnd="157199ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- too -->
+			<text src="../024.xhtml#w277"/>
+			<audio clipBegin="157199ms" clipEnd="157819ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id277g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="157819ms" clipEnd="158584ms" src="../audio/9781368017107.m4a"/>
+		</par>
+	</body>
+</smil>

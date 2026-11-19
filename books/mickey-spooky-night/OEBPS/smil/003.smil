@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="9302ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- mickey -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="9302ms" clipEnd="9813ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- and -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="9813ms" clipEnd="10193ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- friends -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10193ms" clipEnd="11383ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- mickey's -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11383ms" clipEnd="11933ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- spooky -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="11933ms" clipEnd="12793ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- night -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="12793ms" clipEnd="13453ms" src="../audio/9781484750100.m4a"/>
+    </par>
+    <par id="id6g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="13453ms" clipEnd="14418ms" src="../audio/9781484750100.m4a"/>
+    </par>
+  </body>
+</smil>

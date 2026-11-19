@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1b">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="12539ms" clipEnd="17714ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="17714ms" clipEnd="18055ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Kate -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="18055ms" clipEnd="18555ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ritchey -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="18555ms" clipEnd="19525ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19525ms" clipEnd="20235ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="20235ms" clipEnd="20405ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Loter -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="20405ms" clipEnd="20865ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Inc -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="20865ms" clipEnd="21425ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- and -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21425ms" clipEnd="21545ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- the -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="21545ms" clipEnd="21635ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Disney -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21635ms" clipEnd="22095ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22095ms" clipEnd="22665ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Artists -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22665ms" clipEnd="23325ms" src="../audio/9781423190189.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23325ms" clipEnd="24112ms" src="../audio/9781423190189.m4a"/>
+    </par>
+  </body>
+</smil>

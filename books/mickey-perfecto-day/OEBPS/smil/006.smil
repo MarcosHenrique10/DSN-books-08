@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id51g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="31248ms" clipEnd="31519ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id51">
+			<!-- The -->
+			<text src="../006.xhtml#w51"/>
+			<audio clipBegin="31519ms" clipEnd="31629ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id52">
+			<!-- gang -->
+			<text src="../006.xhtml#w52"/>
+			<audio clipBegin="31629ms" clipEnd="32109ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- drives -->
+			<text src="../006.xhtml#w53"/>
+			<audio clipBegin="32109ms" clipEnd="32629ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- their -->
+			<text src="../006.xhtml#w54"/>
+			<audio clipBegin="32629ms" clipEnd="32809ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- Daily -->
+			<text src="../006.xhtml#w55"/>
+			<audio clipBegin="32809ms" clipEnd="33279ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id56">
+			<!-- Drivers -->
+			<text src="../006.xhtml#w56"/>
+			<audio clipBegin="33279ms" clipEnd="33869ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id57">
+			<!-- to -->
+			<text src="../006.xhtml#w57"/>
+			<audio clipBegin="33869ms" clipEnd="33989ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id58">
+			<!-- Madrid -->
+			<text src="../006.xhtml#w58"/>
+			<audio clipBegin="33989ms" clipEnd="34589ms" src="../audio/9781368017107.m4a"/>
+		</par>
+		<par id="id58g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="34589ms" clipEnd="35154ms" src="../audio/9781368017107.m4a"/>
+		</par>
+	</body>
+</smil>

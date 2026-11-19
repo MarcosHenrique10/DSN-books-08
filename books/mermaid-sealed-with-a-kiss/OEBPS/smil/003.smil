@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="13855ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- by -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13855ms" clipEnd="14015ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14015ms" clipEnd="14525ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14525ms" clipEnd="16195ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16195ms" clipEnd="16855ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="16855ms" clipEnd="17095ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Elisa -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17095ms" clipEnd="17855ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Marrucchi -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17855ms" clipEnd="18595ms" src="../audio/9781423192435.m4a"/>
+    </par>
+    <par id="id7g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="18595ms" clipEnd="19179ms" src="../audio/9781423192435.m4a"/>
+    </par>
+  </body>
+</smil>
