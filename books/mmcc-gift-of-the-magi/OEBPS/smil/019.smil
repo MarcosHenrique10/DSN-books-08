@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id430g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="201730ms" clipEnd="202225ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id430">
+      <!-- We'll -->
+      <text src="../019.xhtml#w430"/>
+      <audio clipBegin="202225ms" clipEnd="202535ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id431">
+      <!-- take -->
+      <text src="../019.xhtml#w431"/>
+      <audio clipBegin="202535ms" clipEnd="202965ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id432">
+      <!-- it -->
+      <text src="../019.xhtml#w432"/>
+      <audio clipBegin="202965ms" clipEnd="203295ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id433">
+      <!-- the -->
+      <text src="../019.xhtml#w433"/>
+      <audio clipBegin="203295ms" clipEnd="203385ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id434">
+      <!-- father -->
+      <text src="../019.xhtml#w434"/>
+      <audio clipBegin="203385ms" clipEnd="203765ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id435">
+      <!-- said -->
+      <text src="../019.xhtml#w435"/>
+      <audio clipBegin="203765ms" clipEnd="204545ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id436">
+      <!-- Thank -->
+      <text src="../019.xhtml#w436"/>
+      <audio clipBegin="204545ms" clipEnd="204955ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id437">
+      <!-- you -->
+      <text src="../019.xhtml#w437"/>
+      <audio clipBegin="204955ms" clipEnd="205465ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id438">
+      <!-- And -->
+      <text src="../019.xhtml#w438"/>
+      <audio clipBegin="205465ms" clipEnd="205755ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id439">
+      <!-- Merry -->
+      <text src="../019.xhtml#w439"/>
+      <audio clipBegin="205755ms" clipEnd="206185ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id440">
+      <!-- Christmas -->
+      <text src="../019.xhtml#w440"/>
+      <audio clipBegin="206185ms" clipEnd="207065ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id440g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="207065ms" clipEnd="207892ms" src="../audio/9781484703328.m4a"/>
+    </par>
+  </body>
+</smil>

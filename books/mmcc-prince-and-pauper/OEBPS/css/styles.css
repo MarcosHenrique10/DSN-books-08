@@ -1,0 +1,115 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"centaur-mt-std-regular";
+	src: url(../fonts/CentaurMTStd.otf);
+}
+@font-face {
+	font-family:"centaur-mt-std-bold";
+	src: url(../fonts/CentaurMTStd-Bold.otf);
+}
+@font-face {
+	font-family:"itc-new-baskerville-italic";
+	src: url(../fonts/NewBasIta.otf);
+}
+.font-1 {
+	font-family:"centaur-mt-std-regular";
+	font-size:14px;
+	line-height:17px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:14px;
+	line-height:17px;
+}
+.font-3 {
+	font-family:"centaur-mt-std-bold";
+	font-size:15px;
+	color:#4B4882;
+}
+.font-4 {
+	font-family:"centaur-mt-std-regular";
+	font-size:20px;
+	color:#4B4882;
+}
+.font-5 {
+	font-family:"centaur-mt-std-bold";
+	font-size:35px;
+	color:#4B4882;
+}
+.font-6 {
+	font-family:"centaur-mt-std-regular";
+	font-size:20px;
+	line-height:32px;
+}
+.font-6a {
+	font-family:"centaur-mt-std-bold";
+	font-size:18px;
+	color:#4B4882;
+	letter-spacing:1px;
+}
+.font-7 {
+	font-family:"centaur-mt-std-bold";
+	font-size:21.5px;
+	line-height:32px;
+	color:#4B4882;
+	letter-spacing:1px;
+}
+.font-8 {
+	font-family:"itc-new-baskerville-italic";
+	font-size:20px;
+	line-height:32px;
+}
+.font-8a {
+	font-family:"itc-new-baskerville-italic";
+	font-size:17px;
+	line-height:32px;
+}
+.font-9 {
+	font-family:"adobe-jenson-pro-regular";
+	font-size:15px;
+}
+.font-10 {
+	font-family:"centaur-mt-std-italic";
+	font-size:23px;
+	line-height:35px;
+}
+
+.m1 {
+	margin-bottom:25px !important;
+}
+.m2 {
+	margin-right:-5px !important;
+}
+.m3 {
+	margin-right:-3px !important;
+}
+.m4 {
+	margin-left:1px !important;
+}
+.lh1 {
+	line-height:9px !important;
+}
+
+
+.hi-li {display: none;}
+.hi-li.media-overlay-active {display: block !important;}
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:922px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:922px; overflow:hidden; position:relative; background-size:100% 100%; }
+.pageKF8-single { width:738px; height:922px; position:relative; background-size:100% 100%; left:25%; }
+/*span { color:#f6f !important; }*/

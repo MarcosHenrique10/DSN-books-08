@@ -1,0 +1,286 @@
+img{z-index:-1;}
+
+body {
+	width: 848px;
+	height: 884px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 848px;
+	height: 884px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+
+
+@font-face {
+	font-family:"NeutraText-Bold";
+	src: url(../fonts/NeutraText-Bold.otf);
+}
+@font-face {
+	font-family:"NeutraText-Book";
+	src: url(../fonts/NeutraText-Book.otf);
+}
+
+p.copyright{
+	font-size: 15px;
+	line-height: 18px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 17px;
+	word-spacing: 2px;
+font-family:"NeutraText-Book";
+}
+p.center{
+	font-size: 27px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+font-family:"NeutraText-Book";
+}
+p.center1{
+	font-size: 27px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 7px;
+	word-spacing: 1px;
+font-family:"NeutraText-Book";
+}
+p.center2{
+	font-size: 27px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+font-family:"NeutraText-Book";
+}
+
+p.caption{
+	font-size: 20px;
+	line-height: 25px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+font-family:"NeutraText-Bold";
+text-transform: uppercase;
+}
+
+p.nonindent{
+	font-size: 27px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+font-family:"NeutraText-Book";
+}
+p.back{
+	font-size: 23px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	color: #FFFFFF;
+font-family:"NeutraText-Bold";
+}
+
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+
+div.page3_item1{
+	position: absolute;
+	top: 818px;
+	left: 341px;
+	right: 0px;
+width: 175px;height: 31px;}
+
+div.page2_item1{
+	position: absolute;
+	top: 593px;
+	left: 116px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 75px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item2{
+	position: absolute;
+	top: 798px;
+	left: 294px;
+	right: 0px;
+}
+div.page5_item1{
+	position: absolute;
+	top: 75px;
+	left: 0px;
+	right: 0px;
+}
+div.page5_item2{
+	position: absolute;
+	top: 801px;
+	left: 484px;
+	right: 0px;
+}
+div.page6_item1{
+	position: absolute;
+	top: 90px;
+	left: 0px;
+	right: 0px;
+}
+div.page6_item2{
+	position: absolute;
+	top: 801px;
+	left: 307px;
+	right: 0px;
+}
+div.page7_item1{
+	position: absolute;
+	top: 96px;
+	left: 0px;
+	right: 0px;
+}
+div.page7_item2{
+	position: absolute;
+	top: 801px;
+	left: 478px;
+	right: 0px;
+}
+div.page8_item1{
+	position: absolute;
+	top: 118px;
+	left: 0px;
+	right: 0px;
+}
+div.page8_item2{
+	position: absolute;
+	top: 796px;
+	left: 309px;
+	right: 0px;
+}
+div.page9_item1{
+	position: absolute;
+	top: 118px;
+	left: 0px;
+	right: 0px;
+}
+div.page9_item2{
+	position: absolute;
+	top: 796px;
+	left: 480px;
+	right: 0px;
+}
+div.page10_item1{
+	position: absolute;
+	top: 118px;
+	left: 0px;
+	right: 0px;
+}
+div.page10_item2{
+	position: absolute;
+	top: 796px;
+	left: 325px;
+	right: 0px;
+}
+div.page11_item1{
+	position: absolute;
+	top: 118px;
+	left: 0px;
+	right: 0px;
+}
+div.page11_item2{
+	position: absolute;
+	top: 796px;
+	left: 475px;
+	right: 0px;
+}
+div.page12_item1{
+	position: absolute;
+	top: 783px;
+	left: 167px;
+	right: 0px;
+}
+div.page13_item1{
+	position: absolute;
+	top: 783px;
+	left: 27px;
+	right: 0px;
+}
+div.page16_item1{
+	position: absolute;
+	top: 455px;
+	left: 50px;
+	right: 0px;
+	width: 332px;height: 158px;}
+
+
+span.white{
+color: #FFFFFF;
+}
+
+span.bold
+{
+text-transform: uppercase;
+font-family:"NeutraText-Bold";
+font-size: 31px;
+}
+
+.media-overlay-active { color:#f00 !important; }
+.purple-highlight span.media-overlay-active { color:#c196f0 !important; }
+.page5_item1 p a.media-overlay-active { color:orange !important; }
+
+p.title{
+	font-family:"NeutraText-Book";
+	font-size: 17px;
+	line-height: 15px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.size{
+font-size:12px;
+}

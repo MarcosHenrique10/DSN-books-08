@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1b">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="11175ms" clipEnd="13755ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Based -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13755ms" clipEnd="14145ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- on -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14145ms" clipEnd="14275ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- the -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14275ms" clipEnd="14435ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <!-- 
+<par id="id4">
+      <!~~ true ~~>
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14335ms" clipEnd="14435ms" src="../audio/9781484703328.m4a"/>
+    </par>
+ -->
+    <par id="id5">
+      <!-- story -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="14435ms" clipEnd="15225ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15225ms" clipEnd="15425ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Bruce -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="15425ms" clipEnd="15955ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Talkington -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="15955ms" clipEnd="17365ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17365ms" clipEnd="18335ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="18335ms" clipEnd="18535ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Fernando -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18535ms" clipEnd="19365ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Guell -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="19365ms" clipEnd="19935ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Cano -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="19935ms" clipEnd="20483ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id13a">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20483ms" clipEnd="21252ms" src="../audio/9781484703328.m4a"/>
+    </par>
+  </body>
+</smil>

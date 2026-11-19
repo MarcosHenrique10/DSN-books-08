@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id817g">
+      <!--  -->
+      <text src="../033.xhtml#empty"/>
+      <audio clipBegin="375535ms" clipEnd="375805ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id817">
+      <!-- Pluto -->
+      <text src="../033.xhtml#w817"/>
+      <audio clipBegin="375805ms" clipEnd="376335ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id818">
+      <!-- and -->
+      <text src="../033.xhtml#w818"/>
+      <audio clipBegin="376335ms" clipEnd="376665ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id819">
+      <!-- Figaro -->
+      <text src="../033.xhtml#w819"/>
+      <audio clipBegin="376665ms" clipEnd="377145ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id820">
+      <!-- watched -->
+      <text src="../033.xhtml#w820"/>
+      <audio clipBegin="377145ms" clipEnd="377745ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id821">
+      <!-- excitedly -->
+      <text src="../033.xhtml#w821"/>
+      <audio clipBegin="377745ms" clipEnd="378445ms" src="../audio/9781484703328.m4a"/>
+    </par>
+    <par id="id821g">
+      <!--  -->
+      <text src="../033.xhtml#empty"/>
+      <audio clipBegin="378445ms" clipEnd="379381ms" src="../audio/9781484703328.m4a"/>
+    </par>
+  </body>
+</smil>

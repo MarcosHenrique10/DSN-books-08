@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10735ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- The -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10735ms" clipEnd="10835ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Muppets -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10835ms" clipEnd="11965ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Miss -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="11965ms" clipEnd="12345ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Piggy -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="12345ms" clipEnd="12925ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- in -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12925ms" clipEnd="13065ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- the -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13065ms" clipEnd="13135ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Spotlight -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13135ms" clipEnd="14285ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- by -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14285ms" clipEnd="14545ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Lucy -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14545ms" clipEnd="15105ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Rosen -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15105ms" clipEnd="16005ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16005ms" clipEnd="16605ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- by -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="16605ms" clipEnd="16945ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Kory -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="16945ms" clipEnd="17345ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Heinzen -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="17345ms" clipEnd="17945ms" src="../audio/9781484752920.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="17945ms" clipEnd="18934ms" src="../audio/9781484752920.m4a"/>
+    </par>
+  </body>
+</smil>
