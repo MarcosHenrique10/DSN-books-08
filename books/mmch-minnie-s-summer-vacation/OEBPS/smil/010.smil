@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id38g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="41076ms" clipEnd="41316ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- Daisy -->
+      <text src="../010.xhtml#w38"/>
+      <audio clipBegin="41316ms" clipEnd="41826ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- wants -->
+      <text src="../010.xhtml#w39"/>
+      <audio clipBegin="41826ms" clipEnd="42196ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- to -->
+      <text src="../010.xhtml#w40"/>
+      <audio clipBegin="42196ms" clipEnd="42336ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- swing -->
+      <text src="../010.xhtml#w41"/>
+      <audio clipBegin="42336ms" clipEnd="42976ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id41g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="42976ms" clipEnd="43701ms" src="../audio/9781484701232.m4a"/>
+    </par>
+  </body>
+</smil>

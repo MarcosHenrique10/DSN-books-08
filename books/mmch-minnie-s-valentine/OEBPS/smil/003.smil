@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+   <par id="id1g">
+      <!-- -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15525ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15525ms" clipEnd="15825ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Sheila -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15825ms" clipEnd="16375ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Sweeny -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16375ms" clipEnd="16915ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Higginson -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16915ms" clipEnd="18485ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18485ms" clipEnd="19205ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19205ms" clipEnd="19505ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Loter -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19505ms" clipEnd="20105ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Inc -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20105ms" clipEnd="20445ms" src="../audio/9781423189435.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="20445ms" clipEnd="20945ms" src="../audio/9781423189435.m4a"/>
+    </par>
+  </body>
+</smil>

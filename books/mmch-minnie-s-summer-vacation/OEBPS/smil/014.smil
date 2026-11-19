@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id50g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="51797ms" clipEnd="52036ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- Minnie -->
+      <text src="../014.xhtml#w50"/>
+      <audio clipBegin="52036ms" clipEnd="52576ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- wants -->
+      <text src="../014.xhtml#w51"/>
+      <audio clipBegin="52576ms" clipEnd="52906ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- to -->
+      <text src="../014.xhtml#w52"/>
+      <audio clipBegin="52906ms" clipEnd="53026ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- take -->
+      <text src="../014.xhtml#w53"/>
+      <audio clipBegin="53026ms" clipEnd="53336ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- pictures -->
+      <text src="../014.xhtml#w54"/>
+      <audio clipBegin="53336ms" clipEnd="54036ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id54g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="54036ms" clipEnd="54621ms" src="../audio/9781484701232.m4a"/>
+    </par>
+  </body>
+</smil>

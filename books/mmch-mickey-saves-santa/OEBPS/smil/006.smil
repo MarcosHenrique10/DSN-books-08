@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id34g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="31915ms" clipEnd="33000ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- The -->
+      <text src="../006.xhtml#w34"/>
+      <audio clipBegin="33000ms" clipEnd="33280ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- friends -->
+      <text src="../006.xhtml#w35"/>
+      <audio clipBegin="33280ms" clipEnd="33650ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- had -->
+      <text src="../006.xhtml#w36"/>
+      <audio clipBegin="33650ms" clipEnd="33810ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- all -->
+      <text src="../006.xhtml#w37"/>
+      <audio clipBegin="33810ms" clipEnd="34270ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- gathered -->
+      <text src="../006.xhtml#w38"/>
+      <audio clipBegin="34270ms" clipEnd="34800ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- Around -->
+      <text src="../006.xhtml#w39"/>
+      <audio clipBegin="34800ms" clipEnd="35350ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- Mickey -->
+      <text src="../006.xhtml#w40"/>
+      <audio clipBegin="35350ms" clipEnd="35770ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- Mouse -->
+      <text src="../006.xhtml#w41"/>
+      <audio clipBegin="35770ms" clipEnd="36450ms" src="../audio/9781484749814.m4a"/>
+    </par>
+    <par id="id41g">
+      <!--  -->
+      <text src="../006.xhtml#empty1"/>
+      <audio clipBegin="36450ms" clipEnd="36800ms" src="../audio/9781484749814.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id98g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="88736ms" clipEnd="89716ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- Toodles -->
+      <text src="../026.xhtml#w98"/>
+      <audio clipBegin="89716ms" clipEnd="90216ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- brings -->
+      <text src="../026.xhtml#w99"/>
+      <audio clipBegin="90216ms" clipEnd="90546ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- a -->
+      <text src="../026.xhtml#w100"/>
+      <audio clipBegin="90546ms" clipEnd="90596ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- map -->
+      <text src="../026.xhtml#w101"/>
+      <audio clipBegin="90596ms" clipEnd="91716ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- Now -->
+      <text src="../026.xhtml#w102"/>
+      <audio clipBegin="91716ms" clipEnd="92146ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- Pluto -->
+      <text src="../026.xhtml#w103"/>
+      <audio clipBegin="92146ms" clipEnd="92626ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- can -->
+      <text src="../026.xhtml#w104"/>
+      <audio clipBegin="92626ms" clipEnd="92906ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- dig -->
+      <text src="../026.xhtml#w105"/>
+      <audio clipBegin="92906ms" clipEnd="93246ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id105g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="93246ms" clipEnd="93499ms" src="../audio/9781484701232.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id75g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="68921ms" clipEnd="69456ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- Can -->
+      <text src="../019.xhtml#w75"/>
+      <audio clipBegin="69456ms" clipEnd="69756ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- Daisy -->
+      <text src="../019.xhtml#w76"/>
+      <audio clipBegin="69756ms" clipEnd="70236ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- swing -->
+      <text src="../019.xhtml#w77"/>
+      <audio clipBegin="70236ms" clipEnd="71496ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- Minnie -->
+      <text src="../019.xhtml#w78"/>
+      <audio clipBegin="71496ms" clipEnd="71946ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- calls -->
+      <text src="../019.xhtml#w79"/>
+      <audio clipBegin="71946ms" clipEnd="72416ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id80">
+      <!-- Toodles -->
+      <text src="../019.xhtml#w80"/>
+      <audio clipBegin="72416ms" clipEnd="73176ms" src="../audio/9781484701232.m4a"/>
+    </par>
+    <par id="id80g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="73176ms" clipEnd="74126ms" src="../audio/9781484701232.m4a"/>
+    </par>
+  </body>
+</smil>

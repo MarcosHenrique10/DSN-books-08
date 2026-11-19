@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10070ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Mickey -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10070ms" clipEnd="10570ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Mouse -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10570ms" clipEnd="10940ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Clubhouse -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10940ms" clipEnd="12380ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Minnie's -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="12380ms" clipEnd="12900ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Vacation -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="12900ms" clipEnd="13840ms" src="../audio/9781484749838.m4a"/>
+    </par>
+    <par id="id5g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="13840ms" clipEnd="14779ms" src="../audio/9781484749838.m4a"/>
+    </par>
+  </body>
+</smil>
