@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id295">
+      <!-- Eric -->
+      <text src="../031.xhtml#w295"/>
+      <audio clipBegin="182435ms" clipEnd="182805ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id296">
+      <!-- loves -->
+      <text src="../031.xhtml#w296"/>
+      <audio clipBegin="182805ms" clipEnd="183365ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id297">
+      <!-- Ariel -->
+      <text src="../031.xhtml#w297"/>
+      <audio clipBegin="183365ms" clipEnd="184425ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id298">
+      <!-- Now -->
+      <text src="../031.xhtml#w298"/>
+      <audio clipBegin="184425ms" clipEnd="184675ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id299">
+      <!-- they -->
+      <text src="../031.xhtml#w299"/>
+      <audio clipBegin="184675ms" clipEnd="184795ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id300">
+      <!-- can -->
+      <text src="../031.xhtml#w300"/>
+      <audio clipBegin="184795ms" clipEnd="184995ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id301">
+      <!-- be -->
+      <text src="../031.xhtml#w301"/>
+      <audio clipBegin="184995ms" clipEnd="185215ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id302">
+      <!-- together -->
+      <text src="../031.xhtml#w302"/>
+      <audio clipBegin="185215ms" clipEnd="185725ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id303">
+      <!-- forever -->
+      <text src="../031.xhtml#w303"/>
+      <audio clipBegin="185725ms" clipEnd="186445ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id303g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="186445ms" clipEnd="187413ms" src="../audio/9781484703335.m4a"/>
+    </par>
+  </body>
+</smil>

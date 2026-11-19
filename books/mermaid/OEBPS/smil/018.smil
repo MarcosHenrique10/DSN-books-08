@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id176g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="112034ms" clipEnd="112925ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id176">
+      <!-- Eric -->
+      <text src="../018.xhtml#w176"/>
+      <audio clipBegin="112925ms" clipEnd="113235ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id177">
+      <!-- brings -->
+      <text src="../018.xhtml#w177"/>
+      <audio clipBegin="113235ms" clipEnd="113665ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id178">
+      <!-- Ariel -->
+      <text src="../018.xhtml#w178"/>
+      <audio clipBegin="113665ms" clipEnd="114065ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id179">
+      <!-- to -->
+      <text src="../018.xhtml#w179"/>
+      <audio clipBegin="114065ms" clipEnd="114255ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id180">
+      <!-- the -->
+      <text src="../018.xhtml#w180"/>
+      <audio clipBegin="114255ms" clipEnd="114388ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id181">
+      <!-- palace -->
+      <text src="../018.xhtml#w181"/>
+      <audio clipBegin="114388ms" clipEnd="114995ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id181g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="114995ms" clipEnd="115465ms" src="../audio/9781484703335.m4a"/>
+    </par>
+  </body>
+</smil>

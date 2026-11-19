@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!-- -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="15244ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- by -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15244ms" clipEnd="15554ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Elle -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15554ms" clipEnd="15924ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- D -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15924ms" clipEnd="16244ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Risco -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16244ms" clipEnd="17374ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17374ms" clipEnd="18034ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18034ms" clipEnd="18214ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Brittney -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18214ms" clipEnd="18644ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lee -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="18644ms" clipEnd="19034ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="19034ms" clipEnd="19909ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    
+    <par id="pause">
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="0ms" clipEnd="500ms" src="../audio/silence.m4a"/>
+    </par>
+    
+  </body>
+</smil>

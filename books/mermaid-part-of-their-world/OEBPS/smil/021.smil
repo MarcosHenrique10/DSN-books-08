@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id284g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="171569ms" clipEnd="172064ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id284">
+      <!-- And -->
+      <text src="../021.xhtml#w284"/>
+      <audio clipBegin="172064ms" clipEnd="172234ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id285">
+      <!-- that -->
+      <text src="../021.xhtml#w285"/>
+      <audio clipBegin="172234ms" clipEnd="172484ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id286">
+      <!-- for -->
+      <text src="../021.xhtml#w286"/>
+      <audio clipBegin="172484ms" clipEnd="173184ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id287">
+      <!-- for -->
+      <text src="../021.xhtml#w287"/>
+      <audio clipBegin="173184ms" clipEnd="173734ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id288">
+      <!-- summoning -->
+      <text src="../021.xhtml#w288"/>
+      <audio clipBegin="173734ms" clipEnd="174344ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id289">
+      <!-- witches -->
+      <text src="../021.xhtml#w289"/>
+      <audio clipBegin="174344ms" clipEnd="175484ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id290">
+      <!-- Adella -->
+      <text src="../021.xhtml#w290"/>
+      <audio clipBegin="175484ms" clipEnd="175864ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id291">
+      <!-- finished -->
+      <text src="../021.xhtml#w291"/>
+      <audio clipBegin="175864ms" clipEnd="176354ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    <par id="id291g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="176354ms" clipEnd="177204ms" src="../audio/9781484703304.m4a"/>
+    </par>
+    
+    <par id="pause">
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="0ms" clipEnd="500ms" src="../audio/silence.m4a"/>
+    </par>
+    
+  </body>
+</smil>

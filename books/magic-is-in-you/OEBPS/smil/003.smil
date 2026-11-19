@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="3037ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- The -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="3037ms" clipEnd="3253ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Magic -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="3253ms" clipEnd="4105ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- is -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="4105ms" clipEnd="4259ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- on -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="4259ms" clipEnd="4456ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- You -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="4456ms" clipEnd="6357ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- By -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="6357ms" clipEnd="6557ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Colin -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="6557ms" clipEnd="6947ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Hosten -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="6947ms" clipEnd="7882ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- and -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="7882ms" clipEnd="8075ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Brooke -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="8075ms" clipEnd="8451ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Vitale -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="8451ms" clipEnd="10092ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="10092ms" clipEnd="10692ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- by -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="10692ms" clipEnd="10902ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Grace -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="10902ms" clipEnd="11322ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Lee -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="11322ms" clipEnd="11702ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id15g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="11702ms" clipEnd="17840ms" src="../audio/9781368027816.m4a"/>
+		</par>
+	</body>
+</smil>

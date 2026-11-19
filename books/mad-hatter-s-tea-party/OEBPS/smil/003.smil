@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="5972ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Mad -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5972ms" clipEnd="6772ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Hatter's -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="6772ms" clipEnd="7302ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Tea -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="7302ms" clipEnd="7502ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Party -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="7502ms" clipEnd="9639ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Retold -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="9639ms" clipEnd="10259ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="10259ms" clipEnd="10499ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Jane -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="10499ms" clipEnd="10789ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Werner -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="10789ms" clipEnd="11749ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="11749ms" clipEnd="12359ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="12359ms" clipEnd="12479ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- the -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="12479ms" clipEnd="12639ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Walt -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="12639ms" clipEnd="12919ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Disney -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="12919ms" clipEnd="13219ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Studio -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="13219ms" clipEnd="14302ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="14302ms" clipEnd="14782ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- by -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="14782ms" clipEnd="15022ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- Richmond -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="15022ms" clipEnd="15542ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- I -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="15542ms" clipEnd="15752ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Kelsey -->
+			<text src="../003.xhtml#w19"/>
+			<audio clipBegin="15752ms" clipEnd="16262ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- and -->
+			<text src="../003.xhtml#w20"/>
+			<audio clipBegin="16262ms" clipEnd="16512ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- Don -->
+			<text src="../003.xhtml#w21"/>
+			<audio clipBegin="16512ms" clipEnd="16772ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- Griffith -->
+			<text src="../003.xhtml#w22"/>
+			<audio clipBegin="16772ms" clipEnd="17397ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- from -->
+			<text src="../003.xhtml#w23"/>
+			<audio clipBegin="17397ms" clipEnd="17557ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- the -->
+			<text src="../003.xhtml#w24"/>
+			<audio clipBegin="17557ms" clipEnd="17617ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- motion -->
+			<text src="../003.xhtml#w25"/>
+			<audio clipBegin="17617ms" clipEnd="17987ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- picture -->
+			<text src="../003.xhtml#w26"/>
+			<audio clipBegin="17987ms" clipEnd="18287ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- Alice -->
+			<text src="../003.xhtml#w27"/>
+			<audio clipBegin="18287ms" clipEnd="18837ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- in -->
+			<text src="../003.xhtml#w28"/>
+			<audio clipBegin="18837ms" clipEnd="19017ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- Wonderland -->
+			<text src="../003.xhtml#w29"/>
+			<audio clipBegin="19017ms" clipEnd="20140ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- Based -->
+			<text src="../003.xhtml#w30"/>
+			<audio clipBegin="20140ms" clipEnd="20470ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- on -->
+			<text src="../003.xhtml#w31"/>
+			<audio clipBegin="20470ms" clipEnd="20620ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- the -->
+			<text src="../003.xhtml#w32"/>
+			<audio clipBegin="20620ms" clipEnd="20680ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- story -->
+			<text src="../003.xhtml#w33"/>
+			<audio clipBegin="20680ms" clipEnd="21270ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- by -->
+			<text src="../003.xhtml#w34"/>
+			<audio clipBegin="21270ms" clipEnd="21620ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- Lewis -->
+			<text src="../003.xhtml#w35"/>
+			<audio clipBegin="21620ms" clipEnd="22060ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- Carroll -->
+			<text src="../003.xhtml#w36"/>
+			<audio clipBegin="22060ms" clipEnd="22490ms" src="../audio/9781368040600.m4a"/>
+		</par>
+		<par id="id36g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="22490ms" clipEnd="22958ms" src="../audio/9781368040600.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id384g">
+      <!--  -->
+      <text src="../012.xhtml#empty"/>
+      <audio clipBegin="196046ms" clipEnd="197635ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id384">
+      <!-- They -->
+      <text src="../012.xhtml#w384"/>
+      <audio clipBegin="197635ms" clipEnd="197785ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id385">
+      <!-- pile -->
+      <text src="../012.xhtml#w385"/>
+      <audio clipBegin="197785ms" clipEnd="198305ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id386">
+      <!-- in -->
+      <text src="../012.xhtml#w386"/>
+      <audio clipBegin="198305ms" clipEnd="198445ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id387">
+      <!-- Kermit's -->
+      <text src="../012.xhtml#w387"/>
+      <audio clipBegin="198445ms" clipEnd="198905ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id388">
+      <!-- car -->
+      <text src="../012.xhtml#w388"/>
+      <audio clipBegin="198905ms" clipEnd="199855ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id389">
+      <!-- Their -->
+      <text src="../012.xhtml#w389"/>
+      <audio clipBegin="199855ms" clipEnd="200065ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id390">
+      <!-- first -->
+      <text src="../012.xhtml#w390"/>
+      <audio clipBegin="200065ms" clipEnd="200495ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id391">
+      <!-- stop -->
+      <text src="../012.xhtml#w391"/>
+      <audio clipBegin="200495ms" clipEnd="201095ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id392">
+      <!-- is -->
+      <text src="../012.xhtml#w392"/>
+      <audio clipBegin="201095ms" clipEnd="201295ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id393">
+      <!-- Reno -->
+      <text src="../012.xhtml#w393"/>
+      <audio clipBegin="201295ms" clipEnd="201745ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id394">
+      <!-- Nevada -->
+      <text src="../012.xhtml#w394"/>
+      <audio clipBegin="201745ms" clipEnd="202715ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id395">
+      <!-- They -->
+      <text src="../012.xhtml#w395"/>
+      <audio clipBegin="202715ms" clipEnd="202915ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id396">
+      <!-- find -->
+      <text src="../012.xhtml#w396"/>
+      <audio clipBegin="202915ms" clipEnd="203315ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id397">
+      <!-- Fozzie -->
+      <text src="../012.xhtml#w397"/>
+      <audio clipBegin="203315ms" clipEnd="203725ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id398">
+      <!-- Bear -->
+      <text src="../012.xhtml#w398"/>
+      <audio clipBegin="203725ms" clipEnd="204025ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id399">
+      <!-- performing -->
+      <text src="../012.xhtml#w399"/>
+      <audio clipBegin="204025ms" clipEnd="204635ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id400">
+      <!-- with -->
+      <text src="../012.xhtml#w400"/>
+      <audio clipBegin="204635ms" clipEnd="204825ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id401">
+      <!-- a -->
+      <text src="../012.xhtml#w401"/>
+      <audio clipBegin="204825ms" clipEnd="205085ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id402">
+      <!-- fake -->
+      <text src="../012.xhtml#w402"/>
+      <audio clipBegin="205085ms" clipEnd="205535ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id403">
+      <!-- Muppet -->
+      <text src="../012.xhtml#w403"/>
+      <audio clipBegin="205535ms" clipEnd="205875ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- group -->
+      <text src="../012.xhtml#w404"/>
+      <audio clipBegin="205875ms" clipEnd="206425ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- called -->
+      <text src="../012.xhtml#w405"/>
+      <audio clipBegin="206425ms" clipEnd="206675ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- The -->
+      <text src="../012.xhtml#w406"/>
+      <audio clipBegin="206675ms" clipEnd="206775ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- Moopets -->
+      <text src="../012.xhtml#w407"/>
+      <audio clipBegin="206775ms" clipEnd="207705ms" src="../audio/9781484750940.m4a"/>
+    </par>
+    <par id="id407g">
+      <!--  -->
+      <text src="../012.xhtml#empty1"/>
+      <audio clipBegin="207705ms" clipEnd="208225ms" src="../audio/9781484750940.m4a"/>
+    </par>
+  </body>
+</smil>

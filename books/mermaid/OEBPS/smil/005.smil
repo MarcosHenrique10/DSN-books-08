@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id23g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="27040ms" clipEnd="27565ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- Scuttle -->
+      <text src="../005.xhtml#w23"/>
+      <audio clipBegin="27565ms" clipEnd="28185ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- is -->
+      <text src="../005.xhtml#w24"/>
+      <audio clipBegin="28185ms" clipEnd="28415ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- her -->
+      <text src="../005.xhtml#w25"/>
+      <audio clipBegin="28415ms" clipEnd="28555ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- friend -->
+      <text src="../005.xhtml#w26"/>
+      <audio clipBegin="28555ms" clipEnd="29058ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- too -->
+      <text src="../005.xhtml#w27"/>
+      <audio clipBegin="29058ms" clipEnd="30185ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- He -->
+      <text src="../005.xhtml#w28"/>
+      <audio clipBegin="30185ms" clipEnd="30425ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- teaches -->
+      <text src="../005.xhtml#w29"/>
+      <audio clipBegin="30425ms" clipEnd="30915ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- Ariel -->
+      <text src="../005.xhtml#w30"/>
+      <audio clipBegin="30915ms" clipEnd="31395ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- about -->
+      <text src="../005.xhtml#w31"/>
+      <audio clipBegin="31395ms" clipEnd="31695ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- humans -->
+      <text src="../005.xhtml#w32"/>
+      <audio clipBegin="31695ms" clipEnd="32955ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- Ariel -->
+      <text src="../005.xhtml#w33"/>
+      <audio clipBegin="32955ms" clipEnd="33395ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- dreams -->
+      <text src="../005.xhtml#w34"/>
+      <audio clipBegin="33395ms" clipEnd="33845ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- of -->
+      <text src="../005.xhtml#w35"/>
+      <audio clipBegin="33845ms" clipEnd="33985ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- life -->
+      <text src="../005.xhtml#w36"/>
+      <audio clipBegin="33985ms" clipEnd="34502ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- above -->
+      <text src="../005.xhtml#w37"/>
+      <audio clipBegin="34502ms" clipEnd="35065ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- the -->
+      <text src="../005.xhtml#w38"/>
+      <audio clipBegin="35065ms" clipEnd="35185ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- sea -->
+      <text src="../005.xhtml#w39"/>
+      <audio clipBegin="35185ms" clipEnd="35735ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id39g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="35735ms" clipEnd="36439ms" src="../audio/9781484703335.m4a"/>
+    </par>
+  </body>
+</smil>

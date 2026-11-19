@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id169g">
+			<!--  -->
+			<text src="../028.xhtml#empty"/>
+			<audio clipBegin="118777ms" clipEnd="119857ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id169">
+			<!-- It's -->
+			<text src="../028.xhtml#w169"/>
+			<audio clipBegin="119857ms" clipEnd="120027ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id170">
+			<!-- hard -->
+			<text src="../028.xhtml#w170"/>
+			<audio clipBegin="120027ms" clipEnd="120517ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id171">
+			<!-- to -->
+			<text src="../028.xhtml#w171"/>
+			<audio clipBegin="120517ms" clipEnd="120657ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id172">
+			<!-- leave -->
+			<text src="../028.xhtml#w172"/>
+			<audio clipBegin="120657ms" clipEnd="120917ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id173">
+			<!-- the -->
+			<text src="../028.xhtml#w173"/>
+			<audio clipBegin="120917ms" clipEnd="121017ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id174">
+			<!-- past -->
+			<text src="../028.xhtml#w174"/>
+			<audio clipBegin="121017ms" clipEnd="121487ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id175">
+			<!-- behind -->
+			<text src="../028.xhtml#w175"/>
+			<audio clipBegin="121487ms" clipEnd="122917ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id176">
+			<!-- Just -->
+			<text src="../028.xhtml#w176"/>
+			<audio clipBegin="122917ms" clipEnd="123137ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id177">
+			<!-- remember -->
+			<text src="../028.xhtml#w177"/>
+			<audio clipBegin="123137ms" clipEnd="123587ms" src="../audio/9781368027816.m4a"/>
+		</par>
+		<par id="id177g">
+			<!--  -->
+			<text src="../028.xhtml#empty"/>
+			<audio clipBegin="123587ms" clipEnd="123853ms" src="../audio/9781368027816.m4a"/>
+		</par>
+	</body>
+</smil>

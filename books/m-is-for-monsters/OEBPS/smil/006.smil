@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id42g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="35446ms" clipEnd="36476ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- C -->
+      <text src="../006.xhtml#w42"/>
+      <audio clipBegin="36476ms" clipEnd="37136ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- is -->
+      <text src="../006.xhtml#w43"/>
+      <audio clipBegin="37136ms" clipEnd="37306ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- for -->
+      <text src="../006.xhtml#w44"/>
+      <audio clipBegin="37306ms" clipEnd="37426ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- Celia -->
+      <text src="../006.xhtml#w45"/>
+      <audio clipBegin="37426ms" clipEnd="38256ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- and -->
+      <text src="../006.xhtml#w46"/>
+      <audio clipBegin="38256ms" clipEnd="38386ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- her -->
+      <text src="../006.xhtml#w47"/>
+      <audio clipBegin="38386ms" clipEnd="38516ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- lovely -->
+      <text src="../006.xhtml#w48"/>
+      <audio clipBegin="38516ms" clipEnd="39136ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- hair -->
+      <text src="../006.xhtml#w49"/>
+      <audio clipBegin="39136ms" clipEnd="39596ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id49g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="39596ms" clipEnd="40543ms" src="../audio/9781423192206.m4a"/>
+    </par>
+  </body>
+</smil>

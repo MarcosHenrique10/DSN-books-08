@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id201g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="113844ms" clipEnd="114004ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id201">
+			<!-- whirling -->
+			<text src="../015.xhtml#w201"/>
+			<audio clipBegin="114004ms" clipEnd="114574ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id202">
+			<!-- and -->
+			<text src="../015.xhtml#w202"/>
+			<audio clipBegin="114574ms" clipEnd="114804ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id203">
+			<!-- whirling -->
+			<text src="../015.xhtml#w203"/>
+			<audio clipBegin="114804ms" clipEnd="115324ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id204">
+			<!-- faster -->
+			<text src="../015.xhtml#w204"/>
+			<audio clipBegin="115324ms" clipEnd="115954ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id205">
+			<!-- and -->
+			<text src="../015.xhtml#w205"/>
+			<audio clipBegin="115954ms" clipEnd="116204ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id206">
+			<!-- faster -->
+			<text src="../015.xhtml#w206"/>
+			<audio clipBegin="116204ms" clipEnd="116734ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id207">
+			<!-- and -->
+			<text src="../015.xhtml#w207"/>
+			<audio clipBegin="116734ms" clipEnd="117084ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id208">
+			<!-- faster -->
+			<text src="../015.xhtml#w208"/>
+			<audio clipBegin="117084ms" clipEnd="117774ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id209">
+			<!-- STILL -->
+			<text src="../015.xhtml#w209"/>
+			<audio clipBegin="117774ms" clipEnd="118704ms" src="../audio/9781368015516.m4a"/>
+		</par>
+		<par id="id209g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="118704ms" clipEnd="119764ms" src="../audio/9781368015516.m4a"/>
+		</par>
+	</body>
+</smil>

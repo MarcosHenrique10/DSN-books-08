@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id250g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="153605ms" clipEnd="154085ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- Scuttle -->
+      <text src="../025.xhtml#w250"/>
+      <audio clipBegin="154085ms" clipEnd="154630ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- and -->
+      <text src="../025.xhtml#w251"/>
+      <audio clipBegin="154630ms" clipEnd="154855ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id252">
+      <!-- his -->
+      <text src="../025.xhtml#w252"/>
+      <audio clipBegin="154855ms" clipEnd="155075ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id253">
+      <!-- friends -->
+      <text src="../025.xhtml#w253"/>
+      <audio clipBegin="155075ms" clipEnd="155485ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id254">
+      <!-- stop -->
+      <text src="../025.xhtml#w254"/>
+      <audio clipBegin="155485ms" clipEnd="156085ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- Ursula -->
+      <text src="../025.xhtml#w255"/>
+      <audio clipBegin="156085ms" clipEnd="156685ms" src="../audio/9781484703335.m4a"/>
+    </par>
+    <par id="id255g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="156685ms" clipEnd="157529ms" src="../audio/9781484703335.m4a"/>
+    </par>
+  </body>
+</smil>

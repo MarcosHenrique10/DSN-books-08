@@ -1,0 +1,605 @@
+img{z-index:-1;}body {
+	width: 857px;
+	height: 1165px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 857px;
+	height: 1165px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+@font-face{
+	font-family: "BurbankBigCondensed-Bold";
+	src: url(../fonts/BurbankBigCondensed-Bold.otf);
+}
+@font-face{
+	font-family: "HouseHoliday-Sans";
+	src: url(../fonts/HouseHoliday-Sans.otf);
+}
+@font-face{
+	font-family: "JansonTextLTPro-Italic";
+	src: url(../fonts/JansonTextLTPro-Italic.otf);
+}
+@font-face{
+	font-family: "JansonTextLTProRoman";
+	src: url(../fonts/JansonTextLTProRoman.otf);
+}
+@font-face{
+	font-family: "VeloSerifDisplayBold";
+	src: url(../fonts/VeloSerifDisplayBold.otf);
+}
+p.nonindent{
+	font-family: "JansonTextLTProRoman";
+	font-size: 32px;
+	line-height: 48px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+p.indent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page3_item1{
+	position: absolute;
+	top: 792px;
+	left: 228px;
+	right: 0px;
+width: 401px;height: 101px;}
+div.page4_item1{
+	position: absolute;
+	top: 242px;
+	left: 349px;
+	right: 0px;
+width: 281px;height: 46px;}
+div.page4_item2{
+	position: absolute;
+	top: 347px;
+	left: 104px;
+	right: 0px;
+width: 464px;height: 315px;}
+div.page4_item3{
+	position: absolute;
+	top: 683px;
+	left: 104px;
+	right: 0px;
+width: 499px;height: 274px;}
+div.page5_item1{
+	position: absolute;
+	top: 773px;
+	left: 168px;
+	right: 0px;
+width: 520px;height: 177px;}
+div.page6_item1{
+	position: absolute;
+	top: 907px;
+	left: 102px;
+	right: 0px;
+width: 802px;height: 72px;}
+div.page7_item1{
+	position: absolute;
+	top: 86px;
+	left: 130px;
+	right: 0px;
+width: 608px;height: 256px;}
+div.page8_item1{
+	position: absolute;
+	top: 106px;
+	left: 30px;
+	right: 0px;
+width: 799px;height: 150px;}
+div.page9_item1{
+	position: absolute;
+	top: 988px;
+	left: 33px;
+	right: 0px;
+width: 791px;height: 66px;}
+div.page10_item1{
+	position: absolute;
+	top: 940px;
+	left: 39px;
+	right: 0px;
+width: 776px;height: 61px;}
+div.page11_item1{
+	position: absolute;
+	top: 931px;
+	left: 39px;
+	right: 0px;
+width: 780px;height: 62px;}
+div.page12_item1{
+	position: absolute;
+	top: 80px;
+	left: 321px;
+	right: 0px;
+width: 441px;height: 146px;}
+div.page13_item1{
+	position: absolute;
+	top: 820px;
+	left: 178px;
+	right: 0px;
+width: 543px;height: 139px;}
+div.page14_item1{
+	position: absolute;
+	top: 94px;
+	left: 132px;
+	right: 0px;
+width: 595px;height: 134px;}
+div.page15_item1{
+	position: absolute;
+	top: 94px;
+	left: 137px;
+	right: 0px;
+width: 583px;height: 89px;}
+div.page16_item1{
+	position: absolute;
+	top: 740px;
+	left: 94px;
+	right: 0px;
+width: 533px;height: 91px;}
+div.page16_item2{
+	position: absolute;
+	top: 873px;
+	left: 101px;
+	right: 0px;
+width: 533px;height: 87px;}
+div.page18_item1{
+	position: absolute;
+	top: 745px;
+	left: 152px;
+	right: 0px;
+width: 553px;height: 158px;}
+div.page18_item2{
+	position: absolute;
+	top: 947px;
+	left: 81px;
+	right: 0px;
+width: 699px;height: 58px;}
+div.page19_item1{
+	position: absolute;
+	top: 93px;
+	left: 209px;
+	right: 0px;
+width: 442px;height: 143px;}
+div.page19_item2{
+	position: absolute;
+	top: 992px;
+	left: 181px;
+	right: 0px;
+width: 495px;height: 60px;}
+div.page20_item1{
+	position: absolute;
+	top: 77px;
+	left: 100px;
+	right: 0px;
+width: 658px;height: 84px;}
+div.page20_item2{
+	position: absolute;
+	top: 853px;
+	left: 99px;
+	right: 0px;
+width: 670px;height: 85px;}
+div.page20_item3{
+	position: absolute;
+	top: 998px;
+	left: 160px;
+	right: 0px;
+width: 544px;height: 51px;}
+div.page21_item1{
+	position: absolute;
+	top: 882px;
+	left: 138px;
+	right: 0px;
+width: 587px;height: 77px;}
+div.page22_item1{
+	position: absolute;
+	top: 96px;
+	left: 119px;
+	right: 0px;
+width: 631px;height: 294px;}
+div.page23_item1{
+	position: absolute;
+	top: 849px;
+	left: 39px;
+	right: 0px;
+width: 765px;height: 110px;}
+div.page24_item1{
+	position: absolute;
+	top: 72px;
+	left: 197px;
+	right: 0px;
+width: 619px;height: 138px;}
+div.page24_item2{
+	position: absolute;
+	top: 255px;
+	left: 230px;
+	right: 0px;
+width: 551px;height: 134px;}
+div.page25_item1{
+	position: absolute;
+	top: 67px;
+	left: 31px;
+	right: 0px;
+width: 661px;height: 133px;}
+div.page25_item2{
+	position: absolute;
+	top: 246px;
+	left: 100px;
+	right: 0px;
+width: 527px;height: 227px;}
+div.page26_item1{
+	position: absolute;
+	top: 66px;
+	left: 80px;
+	right: 0px;
+width: 250px;height: 54px;}
+div.page26_item2{
+	position: absolute;
+	top: 800px;
+	left: 37px;
+	right: 0px;
+width: 378px;height: 163px;}
+p.center{
+	font-family: "JansonTextLTProRoman";
+	font-size: 35px;
+	line-height: 41px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+span.non_italic
+{
+font-family: "JansonTextLTPro-Italic";
+}
+span.font
+{
+font-family: "BurbankBigCondensed-Bold";
+font-size: 42px;
+letter-spacing: 2px;
+line-height: 55px;
+color: #008C4B;
+}
+p.copy{
+	font-family: "JansonTextLTProRoman";
+	font-size: 15px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}span.copy_italic
+{
+font-family: "JansonTextLTPro-Italic";
+font-size: 14px;
+}
+span.dedi_italic
+{
+font-family: "JansonTextLTPro-Italic";
+}
+p.dedi{
+	font-family: "VeloSerifDisplayBold";
+	font-size: 30px;
+	line-height: 34px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.center1{
+	font-family: "JansonTextLTProRoman";
+	font-size: 35px;
+	line-height: 41px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 43px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}p.copy1{
+	font-family: "JansonTextLTProRoman";
+	font-size: 15px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}
+
+p.big{
+	font-family: "BurbankBigCondensed-Bold";
+	font-size: 50px;
+	line-height: 43px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+	color: #00ADD5;
+}
+
+span.small
+{
+font-size: 21px;
+}
+
+p.au1a{
+	font-family: "BurbankBigCondensed-Bold";
+	font-size: 47px;
+	line-height: 42px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	color: #00ADD5;
+}
+p.au{
+	font-family: "HouseHoliday-Sans";
+	font-size: 69px;
+	line-height: 70px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	color: #00ADD5;
+}
+p.au1{
+	font-family: "JansonTextLTProRoman";
+	font-size: 27px;
+	line-height: 38px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	
+}
+
+span.dc
+{
+font-size: 110px;
+font-family: "BurbankBigCondensed-Bold";
+float: left;
+padding-top: 40px;
+width: 32px;
+}
+
+span.left
+{
+margin-left: 8px;
+}
+span.left1
+{
+margin-left: 13px;
+}
+
+p.center8{
+	font-family: "JansonTextLTProRoman";
+	font-size: 33px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}
+
+span.align
+{
+font-family: "JansonTextLTProRoman";
+color: #000000;
+vertical-align: 5px;
+}
+
+
+p.center9{
+	font-family: "JansonTextLTProRoman";
+	font-size: 31px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}
+
+
+span.font1
+{
+font-family: "BurbankBigCondensed-Bold";
+font-size: 42px;
+letter-spacing: 2px;
+color: #008C4B;
+}
+
+
+p.center10{
+	font-family: "JansonTextLTProRoman";
+	font-size: 35px;
+	line-height: 41px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+p.center12{
+	font-family: "JansonTextLTProRoman";
+	font-size: 38px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+p.center19{
+	font-family: "JansonTextLTProRoman";
+	font-size: 32px;
+	line-height: 41px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+
+p.center20{
+	font-family: "JansonTextLTProRoman";
+	font-size: 33px;
+	line-height: 35px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}
+
+p.center20a{
+	font-family: "JansonTextLTProRoman";
+	font-size: 35px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+}
+
+p.center8a{
+	font-family: "JansonTextLTProRoman";
+	font-size: 32px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+p.center8aa{
+	font-family: "JansonTextLTProRoman";
+	font-size: 32px;
+	line-height: 48px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 45px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+}
+
+span.font2
+{
+font-family: "BurbankBigCondensed-Bold";
+font-size: 42px;
+letter-spacing: 1px;
+line-height: 55px;
+color: #008C4B;
+}
+
+
+.media-overlay-active
+{
+color:#f00 !important;
+padding-top: 10px;
+}
+
+.media-overlay-active span.non_italic,
+.media-overlay-active span.copy_italic,
+.media-overlay-active span.dedi_italic,
+.media-overlay-active span.small,
+.media-overlay-active span.space,
+.media-overlay-active span.space2,
+.media-overlay-active span.left,
+.media-overlay-active span.left1,
+.media-overlay-active span.font,
+.media-overlay-active span.font1,
+.media-overlay-active span.font3,
+.media-overlay-active span.font6,
+.media-overlay-active span.align,
+.media-overlay-active span.font2 
+{
+color:#f00 !important;
+padding-top: 10px;
+}
+
+.white
+{
+color: #FFFFFF;
+}
+
+span.font6
+{
+font-family: "BurbankBigCondensed-Bold";
+font-size: 42px;
+letter-spacing: 2px;
+line-height: 55px;
+}
+
+span.font3
+{
+font-family: "BurbankBigCondensed-Bold";
+font-size: 42px;
+letter-spacing: 1px;
+line-height: 55px;
+color: #008C4B;
+}
+
+
+span.space
+{
+letter-spacing: 1px;
+font-size: 31px;
+}
+span.space2
+{
+word-spacing: 0px;
+}
+
+
+.media-overlay-active span.dc
+{
+color:#f00 !important;
+}

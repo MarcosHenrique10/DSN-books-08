@@ -1,0 +1,126 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"gulyesa-script-regular";
+	src: url(../fonts/GulyesaScript.otf);
+}
+@font-face {
+	font-family:"times-new-roman-regular";
+	src: url(../fonts/TimesNewRomanPSMT.otf);
+}
+.dedication {
+	font-family:"gulyesa-script-regular";
+	font-size:23px;
+	color:#85245D;
+	fill:#85245D;
+}
+.font-1 {
+	font-family:"times-new-roman-regular";
+	font-size:27px;
+	line-height:50px;
+}
+.font-2 {
+	font-family:"gulyesa-script-regular";
+	font-size:45px;
+	line-height:50px;
+}
+.font-3 {
+	font-family:"times-new-roman-regular";
+	font-size:50px;
+	line-height:50px;
+}
+.font-4 {
+	font-family:"times-new-roman-regular";
+	font-size:12px;
+	line-height:13px;
+}
+.font-5 {
+	font-family:Arial;
+	font-size:12px;
+	line-height:13px;
+}
+.font-6 {
+	font-family:"times-new-roman-regular";
+	font-size:20px;
+}
+.font-7 {
+	font-family:"gulyesa-script-regular";
+	font-size:34px;
+}
+.font-8 {
+	font-family:"times-new-roman-regular";
+	font-size:50px;
+	line-height:57px;
+}
+.font-9 {
+	font-family:"gulyesa-script-regular";
+	font-size:32px;
+	line-height:39px;
+}
+.font-10 {
+	font-family:"gulyesa-script-regular";
+	font-size:51px;
+	line-height:65px;
+}
+.font-11 {
+	font-family:"gulyesa-script-regular";
+	font-size:65px;
+	line-height:72px;
+}
+.font-12 {
+	font-family:"gulyesa-script-regular";
+	font-size:86px;
+	line-height:83px;
+}
+.font-13 {
+	font-family:"gulyesa-script-regular";
+	font-size:32px;
+	line-height:31px;
+}
+.font-14 {
+	font-family:"gulyesa-script-regular";
+	font-size:32px;
+	line-height:12px;
+}
+.font-15 {
+	font-family:"gulyesa-script-regular";
+	font-size:42px;
+	line-height:33px;
+}
+.font-16 {
+	font-family:"gulyesa-script-regular";
+	font-size:32px;
+	line-height:46px;
+}
+.font-17 {
+	font-family:"gulyesa-script-regular";
+	font-size:46px;
+	line-height:46px;
+}
+.font-18 {
+	font-family:"gulyesa-script-regular";
+	font-size:80px;
+	line-height:80px;
+}
+.font-19 {
+	font-family:"times-new-roman-regular";
+	font-size:33px;
+	line-height:48px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; fill:#f00; } /* For audio books */
+.page, .page img { width:738px; height:902px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:902px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:738px; height:902px; position:relative; background-size:contain; left:25%; }
+/*span { color:#f6f !important; }*/

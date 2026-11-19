@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id130g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="90084ms" clipEnd="90975ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id130">
+      <!-- M -->
+      <text src="../016.xhtml#w130"/>
+      <audio clipBegin="90975ms" clipEnd="91525ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id131">
+      <!-- is -->
+      <text src="../016.xhtml#w131"/>
+      <audio clipBegin="91525ms" clipEnd="91715ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id132">
+      <!-- for -->
+      <text src="../016.xhtml#w132"/>
+      <audio clipBegin="91715ms" clipEnd="91875ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id133">
+      <!-- monster -->
+      <text src="../016.xhtml#w133"/>
+      <audio clipBegin="91875ms" clipEnd="92735ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id134">
+      <!-- And -->
+      <text src="../016.xhtml#w134"/>
+      <audio clipBegin="92735ms" clipEnd="93235ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id135">
+      <!-- Mike -->
+      <text src="../016.xhtml#w135"/>
+      <audio clipBegin="93235ms" clipEnd="93655ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id136">
+      <!-- Wazowski -->
+      <text src="../016.xhtml#w136"/>
+      <audio clipBegin="93655ms" clipEnd="94265ms" src="../audio/9781423192206.m4a"/>
+    </par>
+    <par id="id136g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="94265ms" clipEnd="95200ms" src="../audio/9781423192206.m4a"/>
+    </par>
+  </body>
+</smil>
